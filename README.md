@@ -1,12 +1,12 @@
-# houston-property-management-TX
+# Datasets
 
-🏙️ Houston Property Management Dataset
+🏙️ Dataset
 
 A city + industry-specific business intelligence dataset, structured into 6 relational tables and packaged with a full HTML dashboard for analysis.
 
 📊 What’s Inside
 
-The dataset covers Property Management companies in Houston, TX, enriched with:
+The dataset covers businesses, enriched with:
 
 ° Business Info → names, emails, phone numbers, addresses.
 
